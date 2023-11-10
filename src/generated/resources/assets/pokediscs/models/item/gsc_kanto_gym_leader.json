@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pokediscs:item/gsc_kanto_gym_leader"
+  }
+}

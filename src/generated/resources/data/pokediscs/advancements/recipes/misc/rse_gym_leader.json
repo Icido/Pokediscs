@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_rse_base_disc": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pokediscs:rse_base_disc"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pokediscs:rse_gym_leader"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_rse_base_disc",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pokediscs:rse_gym_leader"
+    ]
+  },
+  "sends_telemetry_event": false
+}

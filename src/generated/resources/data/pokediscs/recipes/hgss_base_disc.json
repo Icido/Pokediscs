@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "pokediscs:blank_disc"
+    },
+    "W": {
+      "item": "cobblemon:white_apricorn"
+    },
+    "Y": {
+      "item": "cobblemon:yellow_apricorn"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "W#Y",
+    "YYY"
+  ],
+  "result": {
+    "item": "pokediscs:hgss_base_disc"
+  },
+  "show_notification": true
+}

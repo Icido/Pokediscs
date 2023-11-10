@@ -1,0 +1,81 @@
+{
+  "pkm_theme_song_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:pkm_theme_song_music",
+        "stream": true
+      }
+    ]
+  },"rby_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:rby_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "frlg_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:frlg_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "gsc_johto_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:gsc_johto_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "gsc_kanto_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:gsc_kanto_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "hgss_johto_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:hgss_johto_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "hgss_kanto_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:hgss_kanto_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "rse_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:rse_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "oras_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:oras_gym_leader_music",
+        "stream": true
+      }
+    ]
+  },
+  "dpp_gym_leader_music": {
+    "sounds": [
+      {
+        "name": "pokediscs:dpp_gym_leader_music",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "pokediscs:blank_disc"
+    },
+    "B": {
+      "item": "cobblemon:blue_apricorn"
+    },
+    "P": {
+      "item": "cobblemon:pink_apricorn"
+    },
+    "W": {
+      "item": "cobblemon:white_apricorn"
+    }
+  },
+  "pattern": [
+    "PPW",
+    "P#B",
+    "WBB"
+  ],
+  "result": {
+    "item": "pokediscs:dpp_base_disc"
+  },
+  "show_notification": true
+}

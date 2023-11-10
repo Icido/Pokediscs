@@ -1,0 +1,11 @@
+{
+  "values": [
+    "pokediscs:rby_base_disc",
+    "pokediscs:frlg_base_disc",
+    "pokediscs:gsc_base_disc",
+    "pokediscs:hgss_base_disc",
+    "pokediscs:rse_base_disc",
+    "pokediscs:oras_base_disc",
+    "pokediscs:dpp_base_disc"
+  ]
+}

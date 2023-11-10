@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "pokediscs:blank_disc"
+    },
+    "G": {
+      "item": "minecraft:gray_dye"
+    },
+    "R": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "W": {
+      "item": "cobblemon:white_apricorn"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "G#G",
+    "WWW"
+  ],
+  "result": {
+    "item": "pokediscs:pkm_theme_song"
+  },
+  "show_notification": true
+}

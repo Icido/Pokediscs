@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "pattern": [
+    "   ",
+    "BBB",
+    "CCC"
+  ],
+  "result": {
+    "item": "pokediscs:blank_disc"
+  },
+  "show_notification": true
+}

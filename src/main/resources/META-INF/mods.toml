@@ -1,0 +1,37 @@
+modLoader="javafml" #mandatory
+loaderVersion="${forge_version_range}"
+license="MIT"
+# A URL to refer people to when problems occur with this mod
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]] #mandatory
+    modId="pokediscs" #mandatory
+    version="${mod_version}" #mandatory
+    displayName="Pokediscs" #mandatory
+    authors="${mod_authors}" #optional
+    description='''${mod_description}'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.pokediscs]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="${forge_version_range}" #mandatory
+    ordering="NONE"
+    side="BOTH"
+# Here's another dependency
+[[dependencies.pokediscs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.pokediscs]]
+    modId="cobblemon"
+    mandatory=true
+    versionRange="[1.4,)"
+    ordering="BEFORE"
+    side="BOTH"
+[[dependencies.pokediscs]]
+    modId="kotlinforforge"
+    mandatory=true
+    versionRange="[4,)"
+    ordering="BEFORE"
+    side="BOTH"

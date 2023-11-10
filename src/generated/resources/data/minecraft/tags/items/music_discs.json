@@ -1,0 +1,14 @@
+{
+  "values": [
+    "pokediscs:pkm_theme_song",
+    "pokediscs:rby_gym_leader",
+    "pokediscs:frlg_gym_leader",
+    "pokediscs:gsc_johto_gym_leader",
+    "pokediscs:gsc_kanto_gym_leader",
+    "pokediscs:hgss_johto_gym_leader",
+    "pokediscs:hgss_kanto_gym_leader",
+    "pokediscs:rse_gym_leader",
+    "pokediscs:oras_gym_leader",
+    "pokediscs:dpp_gym_leader"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "pokediscs:oras_base_disc"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "  B",
+    " # ",
+    "   "
+  ],
+  "result": {
+    "item": "pokediscs:oras_gym_leader"
+  },
+  "show_notification": true
+}
